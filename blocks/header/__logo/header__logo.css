@@ -1,0 +1,14 @@
+.header__logo {
+  margin: 0;
+  padding: 0;
+  width: 186.6px;
+  height: 96.43px;
+  background-image: url(../../../images/logotype-desktop.svg);
+  background-repeat: no-repeat;
+  background-size: 186.6px 96.43px;
+  background-position: center;
+  position: absolute;
+  top: 0;
+  left:50%;
+  transform:translate(-50%, 0);
+}
