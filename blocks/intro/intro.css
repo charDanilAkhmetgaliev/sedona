@@ -1,0 +1,13 @@
+.intro {
+  margin: 0;
+  padding: 78px 0 0;
+  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url(../../images/back-desktop.png);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
